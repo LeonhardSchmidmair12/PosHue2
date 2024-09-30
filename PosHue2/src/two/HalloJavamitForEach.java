@@ -15,6 +15,7 @@ public class HalloJavamitForEach {
             System.out.println(s);
 
         }
+        list.forEach(System.out::println);
 
 
 
