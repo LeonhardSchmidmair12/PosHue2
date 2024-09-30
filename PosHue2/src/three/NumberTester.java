@@ -8,7 +8,7 @@ import java.util.Map;
 public class NumberTester {
 
     private final String fileName;
-    //Map<Integer, Integer> numberMap;
+    Map<Integer, Integer> numberMap;
     private NumberTest oddEvenTester;
     private NumberTest primeTester;
     private NumberTest palindromeTester;
