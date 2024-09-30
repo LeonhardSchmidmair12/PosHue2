@@ -1,0 +1,25 @@
+package two;
+
+public class HalloJavamitForEach {
+
+
+    public static void main(String[] args) {
+//       List<String> list = new ArrayList<>();
+//       list.add("Hello");
+//       list.add("World");
+//       list.add("Java");
+//        for (String s : list) {
+//            System.out.println(s);
+//
+//        }
+//        list.forEach(System.out::println);
+
+
+
+
+
+
+
+    }
+
+}
