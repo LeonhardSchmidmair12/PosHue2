@@ -22,6 +22,6 @@ public class Number {
     }
 
     public void setB(double b) {
-        this.b = b;
+        //this.b = b;
     }
 }
